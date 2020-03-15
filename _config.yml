@@ -3,19 +3,19 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Jhon Fredy Beltrán León
+title: Junior Software Engineer at PayU LATAM
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: www.jbeltranleon.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: jbeltranleon
+github_username:  jbeltranleon
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: jbeltranleon
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: jbeltranleon
+linkedin_username: jbeltranleon
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
