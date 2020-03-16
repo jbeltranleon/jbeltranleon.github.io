@@ -1,7 +1,6 @@
 - layout: top-middle
   name: Recognition of diseases on X-ray images
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: https://www.kaggle.com/willarevalo/xrays-multi-densenet121
   quote: >
     Selection of Deep Neural Network Model (Deep Learning) optimal for the recognition of diseases using X-ray images
   description: | # this will include new lines to allow paragraphs
@@ -12,3 +11,5 @@
     performed over a cloud. Finally, a comparison is made between the scores thrown by the trained
     models of other investigations, giving as conclusion that the chosen model is at the level of the
     current state of the art for this problem and group of data.
+
+    **Classmate:** [William Arevalo](https://willarevalo.github.io/) 
