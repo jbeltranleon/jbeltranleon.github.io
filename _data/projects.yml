@@ -8,11 +8,7 @@
     In the project, Selection of Deep Neural Network Model (Deep Learning) optimal for the
     recognition of diseases using <mark>X-ray</mark> images, includes the resolution of a practical problem in the
     medical field in which an optimal and simple model is proposed that allows the classification of
-    a list of recognizable diseases by a <mark>convolutional neural network</mark>. In this way, the project is
-    covered through different stages that allow a semi-sequential resolution, which gives greater
-    traceability to the experiments that are executed to recognize the architecture that has better
-    adaptation, therefore, better performance against the problem. All these experiments are
-    performed under a cloud environment that allows more power when training models that demand
-    a lot of resources. Finally, a comparison is made between the scores thrown by the trained
+    a list of recognizable diseases by a <mark>convolutional neural network</mark>. All these experiments were
+    performed over a cloud. Finally, a comparison is made between the scores thrown by the trained
     models of other investigations, giving as conclusion that the chosen model is at the level of the
     current state of the art for this problem and group of data.

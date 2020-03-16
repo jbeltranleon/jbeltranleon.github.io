@@ -6,4 +6,4 @@
   quote: >
     PayU is a leading financial services provider in global growth markets. We use our expertise and heritage in cross border and local payments to extend the services we offer to merchants and consumers.
   description: | # this will include new lines to allow paragraphs
-    Backend Engineer focus on improve the core transactional platform.
+    Backend Engineer focus on improve the core transactional platform, creating quality code witch is supported by tests and CI/CD.
