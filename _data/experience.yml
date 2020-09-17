@@ -1,9 +1,19 @@
 - layout: left
   company: PayU LATAM
   link: payulatam.com/co/
-  job_title: Junior Software Engineer
-  dates: March 2019 - Present
+  job_title: Junior Data Engineer
+  dates: July 2020 - Present
   quote: >
-    PayU is a leading financial services provider in global growth markets. We use our expertise and heritage in cross border and local payments to extend the services we offer to merchants and consumers.
+    PayU is a leading financial services provider in global growth markets.
   description: | # this will include new lines to allow paragraphs
-    Backend Engineer focus on improve the core transactional platform, creating quality code witch is supported by tests and CI/CD.
+    Focus on the maintenance of the PayU Automated Data Process and Reports and the creation of new data projects using workflow management platforms like Airflow. 
+
+- layout: left
+  company: PayU LATAM
+  link: payulatam.com/co/
+  job_title: Junior Software Engineer
+  dates: March 2019 - July 2020
+  quote: >
+    PayU is a leading financial services provider in global growth markets.
+  description: | # this will include new lines to allow paragraphs
+    Part of the team in charge of the maintenance of the PayU Transactional platform, the development of new functionalities and the decoupling of projects with the aim of continuing to move towards an architecture based on microservices, creating quality code that is supported by tests and CI / CD .

@@ -24,11 +24,16 @@ linkedin_username: jbeltranleon
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jhon Fredy and I'm a Junior Software Engineer oriented Machine Learning.
+  Hi, my name's Jhon Fredy and I'm a Junior Data Engineer who loves Machine Learning.
 
-  I love public speaking and sharing everything I have learned. All people deserve to be happy and if from my work I can help, I will be happy to do so. 
+  I love public speaking and sharing everything I have learned. All people deserve to be happy and if I can help, I will be happy to do so. 
   
-  I am most skilled in: <mark>Java</mark> and <mark>Python</mark> using AI Frameworks such <mark>Keras</mark> and <mark>SKLearn</mark> 
+  I am most skilled in: <mark>Python</mark> and <mark>Java</mark> 
+
+  Some of my hobbies are:
+   - Play tennis and video games
+   - Learn languages
+   - Play the guitar
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +45,11 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Honors & Awards
+
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in AI and software engineering some of my other interests and hobbies are:
-   - Play tennis
-   - Learn languages
+  - 1st Place on the PayU Global Hackathon 2020 [Itzamná]
+  - 2nd Place on Techstars Startup Weekend Colombia 2018 UCundinamarca Chía [Quickpets]
 
 # Footer
 footer_show_references: true
